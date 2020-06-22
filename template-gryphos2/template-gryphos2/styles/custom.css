@@ -1,0 +1,118 @@
+body {
+    background-color: rgb(167, 213, 248);
+}
+.div-principal {
+    margin-top: 124px;
+    margin-bottom: 124px;
+    position: relative;
+    height: 372px;
+}
+.section-1 {
+    width: 45%;
+    height: 155px;
+    background-color: #FFFFFF;
+    margin: auto;
+    text-shadow: 0px 0px 5px rgba(97, 95, 95, 0.7);
+    box-shadow: 0px 0px 5px rgba(46, 241, 241, 0.7);
+}
+.p-1 {
+    padding-left: 30px;
+    padding-top: 16px;
+    padding-bottom: 15px;
+    color: rgb(15, 15, 15);
+    font-size: 27px;
+    font-weight: bold;
+}
+.p-2 {
+    padding-left: 30px;
+    padding-bottom: 10px;
+    color: rgb(39, 39, 37);
+    font-size: 19.5px;
+    font-weight: bold;
+}
+.p-3 {
+    padding-left: 30px;
+    padding-bottom: 16px;
+    line-height: 1.5;
+    font-size: 17.5px;
+    color: rgb(12, 12, 12);
+}
+.section-2 {
+    width: 22.5%;
+    height: 217px;
+    background-color: #2BB3B1;
+    position: relative;
+    left: 376px;
+    text-shadow: 0px 0px 5px rgba(245, 63, 63, 0.7);
+    box-shadow: 0px 0px 5px rgba(46, 241, 241, 0.7);
+}
+.p-4 {
+    padding-left: 30px;
+    font-size: 20px;
+    color: #D6F9FA;
+    padding-top: 25px;
+}
+.p-5 {
+    font-size: 30px;
+    color: #DEFEFD;
+    padding-top: 20px;
+    padding-left: 30px;
+}
+.span {
+    padding-left: 10px;
+    color: rgb(166, 240, 243);
+    font-size: 16.5px;
+    position: absolute;
+    left: 80px;
+    top: 71.5px;
+}
+.p-6 {
+    padding-left: 30px;
+    color: rgb(35, 252, 252);
+    font-size: 18px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+.botao {
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    margin-top: 5px;
+    width: 240px;
+    height: 16px;
+    padding: 0px;
+    border-radius: 5px;
+    background-color: rgb(79, 223, 50);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+.section-3 {
+    width: 22.5%;
+    height: 217px;
+    background-color: rgb(190, 74, 128);
+    position: relative;
+    position: relative;
+    left: 683px;
+    bottom: 217px;
+    text-shadow: 0px 0px 5px rgba(245, 63, 63, 0.7);
+    box-shadow: 0px 0px 5px rgba(46, 241, 241, 0.7);
+}
+.p-7 {
+    padding-left: 30px;
+    padding-top: 25px;
+    font-size: 18px;
+    color: rgb(213, 204, 240);
+}
+.p-8 {
+    padding-left: 30px;
+    padding-top: 22px;
+    color: rgb(218, 201, 233);
+    line-height: 18.5px;
+}
